@@ -12,7 +12,6 @@
 		</head>
 	<body>
 		<h3>JDBC 실습</h3>
-		
 		<a href="./user1/list.jsp">USER1 CRUD실습</a><br/>
 		<a href="./user2/list.jsp">USER2 CRUD실습</a><br/>
 		<a href="./user3/list.jsp">USER3 CRUD실습</a><br/>
