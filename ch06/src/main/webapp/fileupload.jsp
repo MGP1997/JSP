@@ -25,7 +25,6 @@
 		 	WAS의 getPart 업로드 설정	
 			-Server > context.xml >context 태그 allowCausalMultipartParsing="true"로 속성 선언
 			-Server > server.xml > 63라인 태그에 maxPostSize="10485760"속성 선언
-			
 		 -->
 	</head>
 	<body>
@@ -37,8 +36,5 @@
 			<input type="file" name="file1" /><br/>
 			<input type="submit" value="파일 업로드 전송하기"/>
 		</form>
-		
-		
-			
 	</body>
 </html>
